@@ -1,4 +1,4 @@
-### Probabilistic Swarm Algorithm for Collaborative Autonomous Agents
+### Probabilistic Swarm Guidance Algorithm for Collaborative Autonomous Agents
 
 We implemented [Probabilistic swarm guidance for collaborative autonomous agents](https://ieeexplore.ieee.org/document/6859358/) algorithm in python.
 
